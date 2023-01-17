@@ -5,7 +5,6 @@
 - 🌱 I'm on track for learning more about web technologies,  Data Structures, and Algorithms.
   🌱 I’m currently learning React js and Pocketbase
 - ✉️ You can contact me at anuragsrivastav0027@gmail.com I'll try to respond as soon as I can.
-- 
 
 <!--
 **anurag-327/anurag-327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
