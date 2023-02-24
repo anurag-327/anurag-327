@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 [![An image of @anurag327's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anurag327)](https://holopin.io/@anurag327)
- <div align="center">
+
  ![Postman - Postman API Fundamentals Student Expert - 2023-02-25](https://user-images.githubusercontent.com/98267696/221280543-f27def7f-bf7e-4ecb-84d1-1de253e91d5e.png)
- </div>
+
 
 - I'm currently studying Computer Science and Engineering at KNIT SULTANPUR.
 - 💡I enjoy working on technologies like JavaScript,React Js, NodeJS, ExpressJS and MongoDB. I'm Currently exploring Solidity and Web 3.
