@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anurag Srivastav</h1>
-<h3 align="center">A passionate frontend developer from India, currently pursuing BTech in  Computer Science and Engineering from KNIT SULTANPUR</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-327&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-327" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag-327" alt="anurag-327" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/itsanuragsri_327" target="blank"><img src="https://img.shields.io/twitter/follow/itsanuragsri_327?logo=twitter&style=for-the-badge" alt="itsanuragsri_327" /></a> </p>
 
 - 🔭 I’m currently working on [Quick Sign](https://github.com/anurag-327/QuickSign)
 
@@ -15,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/itsAnuragsri_327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsanuragsri_327" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anuragsr327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuragsr327" height="30" width="40" /></a>
 <a href="https://instagram.com/anurag.srivastav88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag.srivastav88" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anurag_cp273" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anurag_cp273" height="30" width="40" /></a>
