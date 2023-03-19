@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-327&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-327" /> </p>
-
+<p align=""> <img src="https://user-images.githubusercontent.com/98267696/226195482-8b820b83-3291-479a-9226-3738e163fd45.png" alt="anurag-327" height="100" width="100" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag-327" alt="anurag-327" /></a> </p>
-<p align="right"> <img src="https://user-images.githubusercontent.com/98267696/226195482-8b820b83-3291-479a-9226-3738e163fd45.png" alt="anurag-327" height="100" width="100" /> </p>
+
 
 
 
