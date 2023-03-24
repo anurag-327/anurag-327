@@ -40,8 +40,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-327&" alt="anurag-327" /></p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/98267696/226195482-8b820b83-3291-479a-9226-3738e163fd45.png" alt="anurag-327" height="100" width="100" /> </p> 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
