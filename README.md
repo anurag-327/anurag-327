@@ -42,7 +42,7 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/98267696/227596364-a77212cb-a077-4a41-9a3e-5900fb86c255.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/98267696/227596689-a7dd4d49-7ff4-4003-990c-26a39af153e1.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/98267696/227596364-a77212cb-a077-4a41-9a3e-5900fb86c255.svg" />
   <img alt="github-snake" src="https://user-images.githubusercontent.com/98267696/227596364-a77212cb-a077-4a41-9a3e-5900fb86c255.svg" />
 </picture>
