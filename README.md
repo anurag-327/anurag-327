@@ -26,6 +26,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anurag-327&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/itsAnurag_sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsAnurag_sri" height="30" width="40" /></a>
