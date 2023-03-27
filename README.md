@@ -2,16 +2,6 @@
 <h3 align="center">A passionate frontend developer from India currently exploring Solidity and Blockchain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-327&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-327" /> </p>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anurag-327&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag-327" alt="anurag-327" /></a></p>
-
-
-
-
-<p align="left"> <a href="https://twitter.com/itsAnurag_sri" target="blank"><img src="https://img.shields.io/twitter/follow/itsanuragsri_327?logo=twitter&style=for-the-badge" alt="itsanuragsri_327" /></a> </p>
 
 - 🔭 I’m currently working on [Quick Sign](https://github.com/anurag-327/QuickSign)
 
@@ -23,8 +13,7 @@
 
 - 📫 How to reach me **anuragsrivastav0027@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-
+<p align="left"> <a href="https://twitter.com/itsAnurag_sri" target="blank"><img src="https://img.shields.io/twitter/follow/itsanuragsri_327?logo=twitter&style=for-the-badge" alt="itsanuragsri_327" /></a> </p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anurag-327&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -33,12 +22,12 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-327&show_icons=true&locale=en&layout=compact" alt="anurag-327" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-327&show_icons=true&locale=en&layout=compact" alt="anurag-327" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-327&show_icons=true&locale=en" alt="anurag-327" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-327&" alt="anurag-327" /></p>
-<p align="center"> <img src="https://user-images.githubusercontent.com/98267696/226195482-8b820b83-3291-479a-9226-3738e163fd45.png" alt="anurag-327" height="100" width="100" /> </p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-327&" alt="anurag-327" /></p> -->
+
 
 
 ## 🏆 GitHub Trophies
@@ -65,6 +54,8 @@
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/98267696/226195482-8b820b83-3291-479a-9226-3738e163fd45.png" alt="anurag-327" height="100" width="100" /> </p> 
 
 ### See my contributions getting eaten by snake
 <picture>
