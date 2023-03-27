@@ -15,12 +15,6 @@
 
 <p align="left"> <a href="https://twitter.com/itsAnurag_sri" target="blank"><img src="https://img.shields.io/twitter/follow/itsanuragsri_327?logo=twitter&style=for-the-badge" alt="itsanuragsri_327" /></a> </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anurag-327&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anurag-327&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-327&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-327&show_icons=true&locale=en&layout=compact" alt="anurag-327" /></p>
 
