@@ -25,13 +25,19 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anurag-327&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=anurag-327&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://twitter.com/itsAnurag_sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsAnurag_sri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anuragsr327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuragsr327" height="30" width="40" /></a>
-<a href="https://instagram.com/anurag.srivastav88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag.srivastav88" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/itsAnurag_sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsAnurag_sri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anuragsr327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuragsr327" height="30" width="40" /></a> -->
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anurag.srivastav88) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragsr327) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsAnurag_sri) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anurag-327&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anurag-327&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-327&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- <a href="https://instagram.com/anurag.srivastav88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag.srivastav88" height="30" width="40" /></a> -->
 <a href="https://www.codechef.com/users/anurag_cp273" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anurag_cp273" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anurag_sr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anurag_sr" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anuragsrivastav0027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anuragsrivastav0027" height="30" width="40" /></a>
