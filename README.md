@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Quick Sign](https://github.com/anurag-327/QuickSign)
 
-- 🌱 I’m currently learning **React, Solidity**
+- 🌱 I’m currently learning **Next Js, Solidity**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-anurag-sri.netlify.app/](https://portfolio-anurag-sri.netlify.app/)
 
