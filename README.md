@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [BugsB](https://github.com/anurag-327/BugsB)
 
-- 🌱 I’m currently learning **Next Js, Solidity**
+- 🌱 I’m currently learning **Next Js, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-anurag-sri.netlify.app/](https://portfolio-anurag-sri.netlify.app/)
 
