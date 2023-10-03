@@ -1,3 +1,5 @@
+[![An image of @anurag327's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anurag327)](https://holopin.io/@anurag327)
+
 <h1 align="center">Hi 👋, I'm Anurag Srivastav</h1>
 <h3 align="center">A passionate frontend developer from India currently exploring Solidity and Blockchain</h3>
 
