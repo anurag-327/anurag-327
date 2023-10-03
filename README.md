@@ -43,8 +43,8 @@
 # 📊 GitHub Stats:
 [![anurag-327's GitHub | Stats](https://stats.quine.sh/anurag-327/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anurag-327)<br/>
 [![anurag-327's GitHub | Dependencies](https://stats.quine.sh/anurag-327/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anurag-327)<br/>
-[![anurag-327's GitHub | Languages Over Time](https://stats.quine.sh/anurag-327/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anurag-327)<br/>
-[![anurag-327's GitHub | Topics Over Time](https://stats.quine.sh/anurag-327/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anurag-327)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anurag-327&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-327&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
