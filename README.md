@@ -1,7 +1,7 @@
 [![An image of @anurag327's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anurag327)](https://holopin.io/@anurag327)
 
 <h1 align="center">Hi 👋, I'm Anurag Srivastav</h1>
-<h3 align="center">A passionate frontend developer from India currently exploring Solidity and Blockchain</h3>
+<h3 align="center">A passionate frontend developer from India currently exploring Devops</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-327&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-327" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-anurag-sri.netlify.app/](https://portfolio-anurag-sri.netlify.app/)
 
-- 💬 Ask me about **react, tailwindcss, nodejs, expressjs, cpp**
+- 💬 Ask me about **react, next js, nodejs, expressjs, cpp**
 
 - 📫 How to reach me **anuragsrivastav0027@gmail.com**
 
@@ -46,13 +46,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anurag-327&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-327&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- ### 😂 Random Dev Meme
+ ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/98267696/226195482-8b820b83-3291-479a-9226-3738e163fd45.png" alt="anurag-327" height="100" width="100" /> </p>  -->
+<p align="center"> <img src="https://user-images.githubusercontent.com/98267696/226195482-8b820b83-3291-479a-9226-3738e163fd45.png" alt="anurag-327" height="100" width="100" /> </p> 
 
 ## 🐍See my contributions getting eaten by snake
 <picture>
