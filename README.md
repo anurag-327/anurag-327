@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [BugsB](https://github.com/anurag-327/Codemon)
 
-- 🌱 I’m currently learning **Next Js, Typescript**
+- 🌱 I’m currently trying my hands on **Go**
 
 - 👨‍💻 All of my projects are available at [https://anuragsri327.vercel.app/](https://anuragsri327.vercel.app/)
 
